@@ -31,4 +31,6 @@
   },
   "license": "ISC",
   "readmeFilename": "README.md",
+  "dependencies": {
+  }
 }
